@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+*{
+	width: 1100px;
+}
+.first-last{
+	width:200px;
+}
+.middle{
+	width:600px;
+}
+img{
+	object-fit:cover;
+}
